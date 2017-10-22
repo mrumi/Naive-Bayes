@@ -3,8 +3,6 @@
  * and open the template in the editor.
  */
 
-package test;
-
 import java.io.*;
 import java.util.*;
 import java.util.Collections;
