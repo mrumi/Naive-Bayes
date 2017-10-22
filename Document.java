@@ -3,8 +3,6 @@
  * and open the template in the editor.
  */
 
-package test;
-
 import java.util.*;
 
 public class Document {
