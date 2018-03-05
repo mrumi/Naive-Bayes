@@ -259,6 +259,8 @@ public class bayes {
     		this.testDocList.get(i).wClear();
     	}
     	this.testDocList.clear();
+	this.topiclist.clear();
+    	this.trainwords.clear();
     }                      
 }
  
