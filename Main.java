@@ -9,8 +9,8 @@ public class Main {
 	    nb.readTrainData("training.data");;
 	    nb.readTestData("test.data");	    
 	    nb.setTrainWords();
-	    double ans = nb.findTopic();
-	    System.out.println(ans);
+	    double accuracy = nb.findTopic();
+	    System.out.println(accuracy);
 	    nb.clearData();
 	}		
 }
